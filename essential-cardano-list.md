@@ -139,6 +139,7 @@ Here is an outline of the categories:
 - [Ardana](https://ardana.org/)
 - [Hard Blue](https://hard.blue/)
 - [Meld](https://www.meld.com/)
+- [Genius Yield] (https://www.geniusyield.co/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
