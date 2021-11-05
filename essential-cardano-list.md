@@ -365,6 +365,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ### Abuse Detection & Prevention ###
 - [Cardano Phishing Bot](https://twitter.com/CardanoPhishing)
+- [Cardano Fraud Detection Bureau](https://cfdb.atlassian.net/servicedesk/customer/portals)
 
 ## Project Catalyst Startups ##
 - [Liqwid: Cardano DeFi Lending Markets](https://www.liqwid.finance/)
